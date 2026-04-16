@@ -42,7 +42,7 @@ Arquivos gerados durante a avaliação de Lógica de Programação, algoritmos e
         getch();
     }
     ```
-![Fluxograma](./atendimento.png)
+![Fluxograma](./triagem.png)
 
 ## Expressões matemáticas
 
